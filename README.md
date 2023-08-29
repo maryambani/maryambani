@@ -1,6 +1,5 @@
 Hi 👋 My name is Maryam 
 =======================
-Front-End Developer 
 -------------------  
 * 🌍  I'm based in Montréal 
 * 🎨  I love to do digital illustrations on my free time.
